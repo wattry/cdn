@@ -20,3 +20,7 @@ header.dashboard-header nav #header {
 #header > span {
     color: white !important;
 }
+
+header.dashboard-header .btn-dro {
+    color: white !important;
+}
