@@ -1,14 +1,22 @@
 header.dashboard-header {
-  background-color: #cee7ff !important;
-  border-bottom-color: #00519e !important;
+    background-color: #10697d !important;
 }
 
-.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
-  color: #000 !important;
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:hover {
+    color: #000 !important;
 }
 
 header.dashboard-header nav #header {
-  background-size: 50px 40px !important;
-  background-image: url("https://www.anzarenewables.com/wp-content/uploads/2024/02/ANZA_logo.png") !important;
-  background-color: #10697d;
+    background-size: 150px 40px !important;
+    background-image: url("https://www.anzarenewables.com/wp-content/uploads/2024/02/ANZA_logo.png") !important;
+
+}
+
+#user-actions {
+    background-color: #10697d;
+}
+
+#header > span {
+    font: white !important;
 }
