@@ -13,7 +13,11 @@ header.dashboard-header nav #header {
 
 }
 
-#create-user-buttons {
+button#create-user-buttons {
+    background-color: #10697d !important;
+}
+
+button.btn {
     background-color: #10697d !important;
 }
 
