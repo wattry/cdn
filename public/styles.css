@@ -14,9 +14,9 @@ header.dashboard-header nav #header {
 }
 
 #user-actions {
-    background-color: #10697d;
+    background-color: #10697d !important;
 }
 
 #header > span {
-    font: white !important;
+    color: white !important;
 }
